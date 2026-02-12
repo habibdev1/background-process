@@ -147,5 +147,3 @@ The application includes several scheduled tasks:
 Feel free to fork the repository, make improvements, and submit pull requests.
 
 ## License
-
-(You may add a license here, e.g., MIT, Apache 2.0, etc.)
